@@ -1,6 +1,9 @@
 # Simple Android note-taking app
 A simple and lightweight Android note-taking app built using **Jetpack Compose**. This app allows users to **create, view, and delete notes** efficiently with a minimalistic UI.
 
+## 📱 App Screenshot
+![App Screenshot](assets/images/screenshot.png)
+
 ## Usage
 Clone the repository and open the project in **Android Studio**.
 
